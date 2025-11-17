@@ -1,0 +1,7 @@
+category	subcategory	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+Metabolism	Global and overview maps	hsa01232	Nucleotide metabolism	3/20	85/8768	0.000889821546909969	0.0667366160182477	0.0646291439334609	DCTD/IMPDH2/NME1	3
+Metabolism	Nucleotide metabolism	hsa00230	Purine metabolism	3/20	128/8768	0.00288902392229944	0.108338397086229	0.104917184546664	IMPDH2/NME1/PFAS	3
+Metabolism	Nucleotide metabolism	hsa00240	Pyrimidine metabolism	2/20	58/8768	0.00756954091130055	0.16654856895656	0.161289140463195	DCTD/NME1	2
+Genetic Information Processing	Replication and repair	hsa03420	Nucleotide excision repair	2/20	63/8768	0.00888259034434986	0.16654856895656	0.161289140463195	POLE3/POLR2H	2
+Metabolism	Xenobiotics biodegradation and metabolism	hsa00983	Drug metabolism - other enzymes	2/20	81/8768	0.014379385357525	0.215690780362875	0.208879492561942	IMPDH2/NME1	2
+Human Diseases	Cancer: specific types	hsa05222	Small cell lung cancer	2/20	93/8768	0.0186789048139273	0.233486310174091	0.226113058273857	CDK4/CKS1B	2
