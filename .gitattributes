@@ -3,6 +3,7 @@
 data/input/*.txt filter=lfs diff=lfs merge=lfs -text
 data/ref/*.rds filter=lfs diff=lfs merge=lfs -text
 results/tables/*.txt filter=lfs diff=lfs merge=lfs -text
+data/input/*.rds filter=lfs diff=lfs merge=lfs -text
 data/input/TCGA_MMRF_expression.txt filter=lfs diff=lfs merge=lfs -text
 data/input/GSE24080_expression.txt filter=lfs diff=lfs merge=lfs -text
 data/input/expression_TCGA_full.txt filter=lfs diff=lfs merge=lfs -text
