@@ -1,18 +1,3 @@
-category	subcategory	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
-Metabolism	Global and overview maps	hsa01232	Nucleotide metabolism	2025/3/20	85/8768	0.000889822	0.066736616	0.064629144	GMPS/NME1/DCTD/IMPDH2	4
-Metabolism	Nucleotide metabolism	hsa00230	Purine metabolism	2025/3/20	128/8768	0.002889024	0.108338397	0.104917185	ATIC / IMPDH2 / NME1 / NME4 / PAICS / GMPS / PFAS	7
-Metabolism	Nucleotide metabolism	hsa00240	Pyrimidine metabolism	2025/2/20	58/8768	0.007569541	0.166548569	0.16128914	DCTD/NME1/NME4	3
-Genetic Information Processing	Replication and repair	hsa03420	Nucleotide excision repair	2025/2/20	63/8768	0.00888259	0.166548569	0.16128914	ERCC1/POLD2/POLE3/POLR2H	4
-Metabolism	Xenobiotics biodegradation and metabolism	hsa00983	Drug metabolism - other enzymes	2025/2/20	81/8768	0.014379385	0.21569078	0.208879493	GMPS/NME1/IMPDH2/NME4	4
-Human Diseases	Cancer: specific types	hsa05222	Small cell lung cancer	2025/2/20	93/8768	0.018678905	0.23348631	0.226113058	CCNE1/CKS1B/CDK4	3
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										
-										
+version https://git-lfs.github.com/spec/v1
+oid sha256:44383e884070cfe220f5917758e4f25c0d484f6d350385f7e17b3266c74cec11
+size 1157
